@@ -1,0 +1,31 @@
+@import "../abstracts/colors";
+
+.navbar{
+    background-color:$grisC;
+}
+
+.nav-item a {
+    color: $beigeC;
+   
+}
+
+img.navbar-toggler {
+    border:solid 1px $beigeC;
+}
+
+.container-fluid a img.logo-c{
+    width:85%;
+}
+
+@media screen and (min-width: 1024px) {
+   
+    .nav-item{
+       padding-left: 50px;
+    }
+    ul.navbar-nav{
+        margin-right: 5%;
+    }
+    a.navbar-brand{
+        margin-left: 5%;
+    } 
+}
