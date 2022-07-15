@@ -6,7 +6,9 @@
 
 .nav-item a {
     color: $beigeC;
-   
+    &:hover{
+        color: $violetaC;
+    } 
 }
 
 img.navbar-toggler {

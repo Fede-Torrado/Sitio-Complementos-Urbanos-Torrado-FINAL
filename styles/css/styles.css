@@ -12,6 +12,9 @@
 .nav-item a {
   color: #c3ac89;
 }
+.nav-item a:hover {
+  color: #6e77a6;
+}
 
 img.navbar-toggler {
   border: solid 1px #c3ac89;
@@ -107,6 +110,26 @@ img.navbar-toggler {
     color: #6e77a6;
   }
 }
+.inicioSelect a {
+  color: #6e77a6;
+}
+
+.galerySelect a {
+  color: #6e77a6;
+}
+
+.decoSelect a {
+  color: #6e77a6;
+}
+
+.aboutSelect a {
+  color: #6e77a6;
+}
+
+.contactoSelect a {
+  color: #6e77a6;
+}
+
 .button1, .mainContent-background .mainContent .mainContent__text a button {
   display: block;
   padding: 10px;
